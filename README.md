@@ -1,1 +1,11 @@
 # NTU-CSX4001
+datascience class
+## Week1:
+* 建立github帳戶
+## week2:
+* 放假
+## Week3:
+* EDA
+* 擷取資料
+* 視覺化分析
+* HW1
